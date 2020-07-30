@@ -1,0 +1,2 @@
+rootProject.name='Tagwell'
+include ':app'
